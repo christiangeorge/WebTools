@@ -1,0 +1,17 @@
+{"Fonts": [
+	{"Style": "Serif", "Name": "Georgia", "css":"Georgia, serif"},
+	{"Style": "Serif", "Name": "Palatino", "css":'Palatino Linotype', 'Book Antiqua', Palatino, serif"},
+	{"Style": "Serif", "Name": "Times New Roman", "css":"'Times New Roman', Times, serif"},
+	{"Style": "Sans-Serif", "Name": "Arial", "css":"Arial, Helvetica, sans-serif"},
+	{"Style": "Sans-Serif", "Name": "Arial Black", "css":"'Arial Black', Gadget, sans-serif"},
+	{"Style": "Sans-Serif", "Name": "Comic Sans MS", "css":"'Comic Sans MS', cursive, sans-serif"},
+	{"Style": "Sans-Serif", "Name": "Impact", "css":"Impact, Charcoal, sans-serif"},
+	{"Style": "Sans-Serif", "Name": "Lucida Sans", "css":"'Lucida Sans Unicode', 'Lucida Grande', sans-serif"},
+	{"Style": "Sans-Serif", "Name": "Tahoma", "css":"Tahoma, Geneva, sans-serif"},
+	{"Style": "Sans-Serif", "Name": "Trebuchet MS", "css":"'Trebuchet MS', Helvetica, sans-serif"},
+	{"Style": "Sans-Serif", "Name": "Verdana", "css":"Verdana, Geneva, sans-serif"},
+	{"Style": "Monospace", "Name": "Courier New", "css":"'Courier New', Courier, monospace"},
+	{"Style": "Monospace", "Name": "Lucida Console", "css":"'Lucida Console', Monaco, monospace"}
+]}
+
+
